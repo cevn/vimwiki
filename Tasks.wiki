@@ -1,0 +1,8 @@
+== Tasks ==
+  0. Work on Marketplace MFA
+  1. Change jenkins to EFS
+  2. chef-host-certs should certify multiple hostnames if necessary 
+  3. Marketplace deploy job deletion bug 
+  4. Marketplace RDS stuff not working at all (important?) 
+  5. Upgrade docker to use different storage engine
+  6. ~~Fix sysdig~~
