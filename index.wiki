@@ -1,5 +1,7 @@
-= My knoledge base = 
-   * [[Tasks]] -- things to be done _yesterday_!!!
+= Tasks = 
+  * [[Tasks|Work Tasks]] -- things to be done for _work_ 
+  * [[home_tasks|Home Tasks]] -- things to be done for _home_ 
 
+= Random stuff =
 
 

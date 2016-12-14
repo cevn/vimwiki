@@ -1,0 +1,9 @@
+1. Merge BSP and CSP code
+2. Decide on MFA method
+
+
+== Merge == 
+  
+  * Surprisingly difficult, due to old version of git
+  * Recourses: merge on CSP laptop, or merge in cygwin
+  
