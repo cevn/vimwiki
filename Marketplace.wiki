@@ -1,9 +1,11 @@
 1. Merge BSP and CSP code
 2. Decide on MFA method
 
-
 == Merge == 
-  
   * Surprisingly difficult, due to old version of git
   * Recourses: merge on CSP laptop, or merge in cygwin
-  
+
+== MFA ==
+  * To use API umbrella method probably have to rip out old auth mechanism
+  * Gem is called omniauth-openam and depends on omniauth gem which in turn depends on devise
+  * So I will probably have to use to using devise in MP for auth

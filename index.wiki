@@ -3,5 +3,6 @@
   * [[home_tasks|Home Tasks]] -- things to be done for _home_ 
 
 = Random stuff =
+  * [[Marketplace]]
 
 
